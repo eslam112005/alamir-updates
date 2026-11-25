@@ -1,6 +1,8 @@
 {
- "version": "2.10.4",
- "notes": "",
- "file": "updates/none.alupdate",
- "date": "2026-11-14"
+ "version": "2.12.4",
+ "notes": "صلاح اهتزاز القائمة الجانبية",
+ "file": "updates/AlAmir-Update-2.12.4.alupdate",
+ "sha256": "625211abcbf3dc879c722190ce9e85f42a9c1f80b977628d4fb57ef018789042",
+ "size": 682524,
+ "date": "2026-11-25"
 }
