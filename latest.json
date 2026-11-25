@@ -1,8 +1,8 @@
 {
  "version": "2.12.4",
- "notes": "اكتب إصلاح اهتزاز القائمة الجانبية",
+ "notes": "إصلاح اهتزاز القائمة الجانبية",
  "file": "updates/AlAmir-Update-2.12.4.alupdate",
- "sha256": "5a65a41df28edbabbd7703bb9caebb8f0b73c5301707ac9edd662edbe7e01eda",
- "size": 682535,
+ "sha256": "8dc7e030e292d5595e3cde7062acf271536f4fe247cd66d3c287325bc344a3b0",
+ "size": 682526,
  "date": "2026-11-25"
 }
